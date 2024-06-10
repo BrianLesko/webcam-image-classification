@@ -18,13 +18,13 @@ class gui:
                 Hey it's {author}, \n
                 {text}
                 """)
-            col1, col2, col3, col4, col5, col6 = st.columns([1.1,1,1,1,1,1.5], gap="medium")
+            col1, col2, col3, col4, col5, col6 = st.columns([1,1,1,1,1,1.2], gap="medium")
             with col2: # Twitter
-                st.write("[![X](https://raw.githubusercontent.com/BrianLesko/BrianLesko/f7be693250033b9d28c2224c9c1042bb6859bfe9/.socials/svg-335095-blue/x-logo-blue.svg)](https://twitter.com/BrianJosephLeko)")
+                st.write("[![X](https://raw.githubusercontent.com/BrianLesko/BrianLesko/main/.socials/svg-grey/x.svg)](https://twitter.com/BrianJosephLeko)")
             with col3: # GITHUB
-                st.write("[![Github](https://raw.githubusercontent.com/BrianLesko/BrianLesko/f7be693250033b9d28c2224c9c1042bb6859bfe9/.socials/svg-335095-blue/github-mark-blue.svg)](https://github.com/BrianLesko)")
+                st.write("[![Github](https://raw.githubusercontent.com/BrianLesko/BrianLesko/main/.socials/svg-grey/github.svg)](https://github.com/BrianLesko)")
             with col4: # LINKEDIN
-                st.write("[![LinkedIn](https://raw.githubusercontent.com/BrianLesko/BrianLesko/f7be693250033b9d28c2224c9c1042bb6859bfe9/.socials/svg-335095-blue/linkedin-icon-blue.svg)](https://www.linkedin.com/in/brianlesko/)")
+                st.write("[![LinkedIn](https://raw.githubusercontent.com/BrianLesko/BrianLesko/main/.socials/svg-grey/linkedin.svg)](https://www.linkedin.com/in/brianlesko/)")
             with col5: # YOUTUBE
                 "." #st.write("[![LinkedIn](https://raw.githubusercontent.com/BrianLesko/BrianLesko/f7be693250033b9d28c2224c9c1042bb6859bfe9/.socials/svg-335095-blue/yt-logo-blue.svg)](https://www.linkedin.com/in/brianlesko/)")
             with col6: # BLOG Visual Study Code
