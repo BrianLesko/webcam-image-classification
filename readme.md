@@ -7,7 +7,7 @@ I was able to run this code at ~ 11.5 fps on my macbook pro webcam.
 
 &nbsp;
 
-<div align="center"><img src="docs/preview.png" width="800"></div>
+<div align="center"><img src="preview.png" width="800"></div>
 
 &nbsp;
 
